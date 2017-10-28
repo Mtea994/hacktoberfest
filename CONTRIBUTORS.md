@@ -1,3 +1,8 @@
+#### [Imtinan Khurshid](https://github.com/Mtea994)
+- place: Peshawar , Kp , Pakistan
+- Bio: Student of Computer Systems Engineering , BlockChain Enthusiast , learner , Curious Minded
+- Github: [Mtea994](https://github.com/Mtea994) 
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
